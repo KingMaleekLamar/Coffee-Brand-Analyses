@@ -30,4 +30,6 @@ In this analysis, we'll dive into the world of coffee to answer some burning que
 
 Based on our analysis, we recommend exploring lighter roast levels and flavor profiles that cater to Asian palates, which tend to prefer milder flavors. Additionally, partnering with local roasters to create region-specific blends could help tap into growing demand for specialty coffee in Asian markets.
 
+link to the Project :- https://app.powerbi.com/view?r=eyJrIjoiZWI1ZTJjZjYtY2ZkMi00NjM5LWIxNWUtNDE1ZTBiMmEwOWZmIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9
+
 By exploring these insights, we hope to have provided valuable information for coffee enthusiasts and professionals alike!
